@@ -1,0 +1,17 @@
+{
+  "name": "BooksAPI",
+  "version": "0.0.0",
+  "description": "BooksAPI",
+  "main": "server.js",
+  "author": {
+    "name": "Tomer",
+    "email": "" 
+  },
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3", 
+    "gulp": "^3.9.0",
+    "gulp-nodemon": "^2.0.4",
+    "mongoose": "^4.1.3"
+  }
+}
